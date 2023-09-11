@@ -31,6 +31,10 @@ Universal Dependencies Japanese Treebank.
 Omura, M., Wakasa, A., and Asahara, M. (2023)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (submitting)
 
+大村 舞,若狭 絢,松田 寛,浅原 正幸 (2023)
+UD Japanese-CEJC とその評価, 言語処理学会第29回年次大会発表論文集
+
+
 # Acknowledgments
 
 The original treebank was provided by:
