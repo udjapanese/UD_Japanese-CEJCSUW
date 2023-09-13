@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>59324</sentences><tokens>256891</tokens><words>256891</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="8440" /><!-- うん, だ, の, ね, か, そう, た, で, て, と, が, も, は, よ, に -->
+  <forms unique="10671" /><!-- うん, ね, の, て, だ, か, で, そう, た, に, ん, と, ない, は, が -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">9470</tag><!-- 良い, 無い, 凄い, 大丈夫, 美味しい, 駄目, そんな, 可愛い, 確か, 同じ -->
+    <tag name="ADP">34894</tag><!-- の, は, も, が, に, と, か, で, って, を -->
+    <tag name="ADV">17321</tag><!-- そう, もう, まあ, 一寸, こう, どう, 矢張り, 多分, 今, 全然 -->
+    <tag name="AUX">33928</tag><!-- だ, た, てる, ない, です, 為る, ます, 無い, ちゃう, みたい -->
+    <tag name="CCONJ">4397</tag><!-- で, だ, 其れ, 唯, 要する, 然も, から, そして, けれど, って -->
+    <tag name="DET">1442</tag><!-- 其の, 此の, 彼の, 或る, 何の, あらゆる, 我が -->
+    <tag name="INTJ">27580</tag><!-- うん, あっ, ああ, あの, はい, いや, えっ, へえ, ふん, ええ -->
+    <tag name="NOUN">38181</tag><!-- 御, 人, さん, 事, 時, 本当, 方, ちゃん, 所, 感じ -->
+    <tag name="NUM">4291</tag><!-- 一, 二, 十, 三, 四, 五, 二十, 万, 何, 九 -->
+    <tag name="PART">21814</tag><!-- ね, よ, か, さ, の, な, って, じゃん, け, もの -->
+    <tag name="PRON">9669</tag><!-- 何, 其れ, 此れ, 彼れ, 私, 此処, 其処, 俺, 何処, そんな -->
+    <tag name="PROPN">3573</tag><!-- 日本, 朔也, 東京, けん, 中野, 西武, かっ, ルリ, 朔, 三上 -->
+    <tag name="SCONJ">17172</tag><!-- の, て, から, けれど, と, ば, し, ながら, に, 為る -->
+    <tag name="VERB">25327</tag><!-- 言う, 有る, 為る, 行く, 遣る, 思う, 来る, 成る, 居る, 分かる -->
+    <tag name="X">7832</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="1">
+    <feat name="Polarity" value="Neg" upos="AUX,NOUN">2944</feat><!-- ない, なかっ, なく, ん, なきゃ, ねえ, なし, ず, 不, なけれ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="25">
+    <dep name="acl">5618</dep>
+    <dep name="advcl">10357</dep>
+    <dep name="advmod">12430</dep>
+    <dep name="amod">253</dep>
+    <dep name="aux">23426</dep>
+    <dep name="case">32677</dep>
+    <dep name="cc">4270</dep>
+    <dep name="ccomp">881</dep>
+    <dep name="compound">10205</dep>
+    <dep name="cop">5081</dep>
+    <dep name="csubj">228</dep>
+    <dep name="csubj:outer">20</dep>
+    <dep name="dep">137</dep>
+    <dep name="det">1410</dep>
+    <dep name="discourse">7314</dep>
+    <dep name="fixed">10658</dep>
+    <dep name="mark">36478</dep>
+    <dep name="nmod">7778</dep>
+    <dep name="nsubj">6221</dep>
+    <dep name="nsubj:outer">434</dep>
+    <dep name="nummod">2523</dep>
+    <dep name="obj">1256</dep>
+    <dep name="obl">14796</dep>
+    <dep name="reparandum">3116</dep>
+    <dep name="root">59324</dep>
+  </deps>
+</treebank>
