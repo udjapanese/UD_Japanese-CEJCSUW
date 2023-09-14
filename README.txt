@@ -15,6 +15,10 @@ We prepared conversion rules from CEJC-DEP to UD_Japanese v2.11 guidelines [3][4
 
 ## Recovering data
 
+XXX
+
+You need to download original CEJC-DEP annotation file in CEJC site.
+
 ## Spliting
 
 Each data set contains UD annotations for the following parts in CEJC
