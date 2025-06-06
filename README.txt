@@ -32,11 +32,21 @@ test: 10% of the data
 You are encouraged to cite the following paper when you refer to the
 Universal Dependencies Japanese Treebank.
 
-Omura, M., Wakasa, A., and Asahara, M. (2023)
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (submitting)
+Mai Omura, Hiroshi Matsuda, Masayuki Asahara, and Aya Wakasa. 2023.
+UD_Japanese-CEJC: Dependency Relation Annotation on Corpus of Everyday
+Japanese Conversation. In Proceedings of the 24th Annual Meeting of
+the Special Interest Group on Discourse and Dialogue, pages 324–335,
+Prague, Czechia. Association for Computational Linguistics.
+https://aclanthology.org/2023.sigdial-1.29/
 
 大村 舞,若狭 絢,松田 寛,浅原 正幸 (2023)
 UD Japanese-CEJC とその評価, 言語処理学会第29回年次大会発表論文集
+https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-9.pdf
+
+大村 舞, 若狭 絢, 松田 寛, 浅原 正幸, 日本語日常会話コーパスのUniversal Dependencies:
+UD_Japanese-CEJC, 自然言語処理, 2025, 32 巻, 1 号, p. 55-90
+https://www.jstage.jst.go.jp/article/jnlp/32/1/32_55/_article/-char/ja/
+
 
 
 # Acknowledgments
