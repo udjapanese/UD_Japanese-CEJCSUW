@@ -4,6 +4,8 @@ This Universal Dependencies (UD) Japanese treebank is based on the definition of
 UD Japanese convention described in the UD documentation.
 The original transcription are from `Corpus of Everyday Japanese Conversation'(CEJC).
 
+LUW version: https://github.com/udjapanese/UD_Japanese-CEJCLUW
+
 # Introduction
 
 The Japanese UD treebank contains the utterance units from CEJC [1]
