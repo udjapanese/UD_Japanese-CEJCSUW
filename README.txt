@@ -18,6 +18,8 @@ We prepared conversion rules from CEJC-DEP to UD_Japanese v2.11 guidelines [3][4
 XXX
 
 You need to download original CEJC-DEP annotation file in CEJC site.
+If you have a paid CEJC license version, you can also download the already-extracted files from the data distribution site.
+https://cejc-data.ninjal.ac.jp/course/view.php?id=8
 
 ## Spliting
 
